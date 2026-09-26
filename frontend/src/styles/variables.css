@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+:root {
+  --background: #242423;
+  --surface-alt: #333533;
+  --surface: #333533;
+  --input-bg: #242423;
+  
+  --primary: #f5cb5c;
+  --primary-dark: #dbae3b;
+  --accent: #cfdbd5;
+  
+  --text: #e8eddf;
+  --muted: #cfdbd5;
+  
+  --border: rgba(232, 237, 223, 0.15);
+  
+  --danger: #EF4444;
+  --success: #10B981;
+  --warning: #f5cb5c;
+  --info: #3b82f6;
+
+  --radius: 20px;
+  --radius-sm: 10px;
+}
